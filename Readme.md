@@ -28,14 +28,61 @@ An intelligent research assistant powered by Google Gemini AI with real-time web
 - **Framework**: LangChain
 - **Language**: Python 3.9+
 
-## 📦 Installation
+## 📊 Features in Detail
 
-### Prerequisites
+### Web Search Integration
+- Real-time information retrieval
+- Powered by Serper.dev API
+- Context-aware responses
 
-- Python 3.9 or higher
-- Google Gemini API key
-- Serper.dev API key
+### AI-Powered Responses
+- Google Gemini 1.5 Flash/Pro
+- Natural language understanding
+- Conversational interface
 
-### Local Setup
+### Calculator Tool
+- Mathematical expressions
+- Supports +, -, *, /, %, ()
+- Instant results
 
-1. **Clone the repository**
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Author
+
+**[Your Name]**
+- 🎓 MS in Data Science @ Pace University, New York
+- 💼 LinkedIn: [Your LinkedIn]
+- 📧 Email: [Your Email]
+- 🌐 Portfolio: [Your Portfolio]
+
+## 🙏 Acknowledgments
+
+- Google Gemini AI for the language model
+- Serper.dev for web search API
+- Streamlit for the amazing framework
+- LangChain for tool orchestration
+
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](screenshots/main.png)
+
+### Chat Example
+![Chat Example](screenshots/chat.png)
+
+### Settings Panel
+![Settings](screenshots/settings.png)
+
+---
+
+⭐ If you found this project helpful, please give it a star!
+
+📫 Feel free to reach out for any questions or suggestions.
+
+
